@@ -10,9 +10,9 @@ You can also check out my portfolio at [jacksonwen.netlify.app](https://jacksonw
 ### 🛠 What I Do / Areas of Expertise  
 
 - **Languages**: JavaScript, Python, C, C#, SQL, HTML, CSS, JavaScript, Java  
-- **Frameworks & Libraries:** React, Node.js, Firebase 
+- **Frameworks & Libraries:** React, Node.js, numpy, scikit-learn
 - **Game / Interactive Projects**: Unity, Blender  
-- **DevOps / Deployment / CI-CD**: Git, Azure DevOps, Google Cloud
+- **DevOps / Deployment / CI-CD**: Git, Azure DevOps, Google Cloud, Firebase 
 
 ---
 
