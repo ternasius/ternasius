@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I’m Jackson Wen 👋
 
-<!--
-**ternasius/ternasius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 Who I Am  
+I’m a software developer based in Ontario (or wherever you're based). I love building web apps and games; anything that combines logic + creativity.  
+Currently working with the Ontario Public Service.  
+You can also check out my portfolio at [jacksonwen.netlify.app](https://jacksonwen.netlify.app).  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 What I Do / Areas of Expertise  
+
+- **Languages**: JavaScript, Python, C, C#, SQL, HTML, CSS, JavaScript, Java  
+- **Frameworks & Libraries:** React, Node.js, Firebase 
+- **Game / Interactive Projects**: Unity, Blender  
+- **DevOps / Deployment / CI-CD**: Git, Azure DevOps, Google Cloud
+
+---
+
+### 🧭 Current Activities
+
+- 🔭 I’m currently working on a story game
+- 🌱 I’m currently learning Azure DevOps for my internship's version control
+- 💬 Open to collaborating on games or software projects
+- ⚡ Fun fact: Lay's BBQ chips are my favourite snack
+
+---
+
+### 🔗 Links & Contact
+
+- Portfolio site: [jacksonwen.netlify.app](https://jacksonwen.netlify.app)  
+- GitHub: [github.com/ternasius](https://github.com/ternasius)
+- LinkedIn: [linkedin.com/in/jackson-wen](https://www.linkedin.com/in/jackson-wen/)
+- Email: jackbs.wen2004@gmail.com
