@@ -30,4 +30,5 @@ You can also check out my portfolio at [jacksonwen.netlify.app](https://jacksonw
 - Portfolio site: [jacksonwen.netlify.app](https://jacksonwen.netlify.app)  
 - GitHub: [github.com/ternasius](https://github.com/ternasius)
 - LinkedIn: [linkedin.com/in/jackson-wen](https://www.linkedin.com/in/jackson-wen/)
+- Itch.io: [ternasius.itch.io](https://ternasius.itch.io/)
 - Email: jackbs.wen2004@gmail.com
