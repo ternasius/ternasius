@@ -40,15 +40,6 @@ Currently, I’m working with the **Ontario Public Service** and expanding my kn
 
 ---
 
-## Current Focus
-
-- Developing a **narrative-driven game** in Unity  
-- Learning **Azure DevOps** and CI/CD integration  
-- Collaborating on **web and software development** projects  
-- Exploring data-driven approaches to **interactive systems**  
-
----
-
 ## GitHub Overview
 
 <div align="center">
@@ -68,9 +59,3 @@ Currently, I’m working with the **Ontario Public Service** and expanding my kn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jackson--wen-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jackson-wen/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-ternasius-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://ternasius.itch.io)
 [![Email](https://img.shields.io/badge/Email-jackbs.wen2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jackbs.wen2004@gmail.com)
-
----
-
-<div align="center">
-  <sub><i>“Creativity and precision drive great software.”</i></sub>
-</div>
